@@ -36,7 +36,7 @@ Route::get('/contact', 'ContactController@contact');
 
 Route::get('/about', 'AboutController@about');
 
-Route::get('/contact', 'PagesController@contact');
+//Route::get('/contact', 'PagesController@contact');
 
 Route::resource('tasks', 'TaskController')->middleware('auth');//위의 그룹으로 묶은 것도 더 편하게 바꿈
 
