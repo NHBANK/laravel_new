@@ -1,4 +1,4 @@
-<a href = "https://github.com/Dandooshake/laravel_new.git" target="_blank">https://github.com/Dandooshake/laravel_new.git</a><br>
+<a href = "https://github.com/Dandooshake/laravel_new.git" target="_blank">https://github.com/Dandooshake/laravel_new</a><br>
 
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
