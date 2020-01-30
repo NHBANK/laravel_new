@@ -49,6 +49,11 @@
                             <a href="/contact">Contact</a>
                         </li>
                     </ul>
+                    <ul class="navbar-nav ml-4">
+                        <li class="nav-item">
+                            <a href="/blog">Blog</a>
+                        </li>
+                    </ul>
 
                     <!-- Right Side Of Navbar -->
                     <ul class="navbar-nav ml-auto">

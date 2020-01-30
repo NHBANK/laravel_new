@@ -32,6 +32,8 @@ Route::get('/', 'HomeController@index');
     Route::delete('/{task}', 'TaskController@destroy');
 });*/
 
+Route::get('/blog', 'BlogController@blog');
+
 Route::get('/contact', 'ContactController@contact');
 
 Route::get('/about', 'AboutController@about');
